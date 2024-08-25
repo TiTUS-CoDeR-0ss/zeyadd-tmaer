@@ -6,7 +6,7 @@
 **Skills**
 
 * **Technical Skills:** Python, Machine Learning, Artificial Intelligence, AWS
-* **Soft Skills:** Problem-solving, analytical thinking, critical thinking, journaling ,time managmnet.
+* **Soft Skills:** Problem-solving, analytical thinking, critical thinking, journaling ,time management.
 * **Additional:** Digital Marketing (3 years), Virtual Assistance
 
 **Education**
@@ -22,12 +22,6 @@ Expected Graduation Date: [spring 2026]
 * Digital Marketing (Udacity)
 * Virtual Assistance (ALX)
 
-**Projects**
-
-* **[Project Title 1]** (GitHub: [URL])
-  * [Brief description of the project, including goals, methods, and outcomes]
-* **[Project Title 2]** (GitHub: [URL])
-  * [Brief description of the project]
 
 
 
