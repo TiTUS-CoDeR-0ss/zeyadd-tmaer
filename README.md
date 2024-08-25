@@ -12,8 +12,11 @@
 **Education**
 
 •	Future University  
+
 •	Cairo, Egypt
+
 •	Bachelor of Dental Surgery (BDS) 
+
 •	Expected Graduation Date: [spring 2026]
 
 
